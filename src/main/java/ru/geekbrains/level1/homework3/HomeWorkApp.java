@@ -7,6 +7,7 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
+
     }
 
 
